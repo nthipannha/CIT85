@@ -1,0 +1,25 @@
+
+
+
+li:first-child {
+    background-color:pink;
+}
+li:last-child{
+    background: gray;
+}
+li:nth-child(even) {
+    background:purple;
+}
+li:nth-child(odd) {
+    background: orange;
+}
+li:nth-child(5) {
+    background:blue;
+}
+article:only-child {
+    color: green;
+}
+
+li:nth-child(2n+4) {
+    color:seagreen;
+}

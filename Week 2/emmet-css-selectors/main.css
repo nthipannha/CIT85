@@ -1,0 +1,21 @@
+.item1 {
+    color: red
+}
+
+.item2 {
+    color: purple;
+}
+
+.item3 {
+    color:white;
+    background-color: orange;
+}
+
+#four {
+    color: blue;
+}
+
+#five {
+    color: brown;
+    background-color: yellow;
+}
