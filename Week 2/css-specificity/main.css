@@ -1,0 +1,19 @@
+main {
+    width: 50%;
+}
+
+div {
+    line-height: 100%;
+    width: 80%;
+    border: 2px;
+}
+
+h1 {
+    color: purple;
+    height: 100%;
+}
+
+p {color: black;}
+.green {color: green;}
+#blue {color: blue;}
+#first {color:blue;}
