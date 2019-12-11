@@ -1,0 +1,49 @@
+html, body, div {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html {
+    color: whitesmoke;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p {
+    font-size: 8rem;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    text-decoration: underline;
+    color: lightcoral;
+}
+
+
+header {
+    display: flex;
+    height: 50px;
+    background-color: black;
+    margin-bottom: 10px;
+}
+footer {
+    display: flex;
+    clear: both;
+    height: 50px;
+    background-color:black;
+}

@@ -1,0 +1,43 @@
+html, body, div {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html, h1, h2, h3, h4 {
+    color:black;
+}
+
+#boxshadow {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+    background-color: lightcoral;
+
+p {
+    font-size: 8rem;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    text-decoration: underline;
+    color: lightcoral;
+}
+header {
+    display: flex;
+    height: 50px;
+    background-color: black;
+    margin-bottom: 10px;
+}
+footer {
+    display: flex;
+    clear: both;
+    height: 50px;
+    background-color:black;
+}
